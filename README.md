@@ -31,7 +31,7 @@ Users can search weather information for any city and instantly view current atm
 
 | Jenkins Build Success | Docker Deployment |
 |---|---|
-| ![](images/jenkins-build.png) | ![](images/docker-deploy.png) |
+| ![](images/jenkins-build.png) | ![](images/deploy-container.png) |
 
 ---
 
